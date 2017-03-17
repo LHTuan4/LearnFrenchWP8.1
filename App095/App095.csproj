@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D12432C3-7EE7-4005-9C1C-4CDAB9340DD8}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App095</RootNamespace>
+    <AssemblyName>App095</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <SilverlightVersion>
+    </SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>App095_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>App095.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <TargetFrameworkProfile />
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <NuGetPackageImportStamp>7d2e31c0</NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.gen.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainPage.xaml.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Classes\AppPage.cs" />
+    <Compile Include="Src\Classes\DataTemplateSelector.cs" />
+    <Compile Include="Src\Classes\MainPageItem.cs" />
+    <Compile Include="Src\Classes\MainPageItemTemplateSelector.cs" />
+    <Compile Include="Src\Database\Database.cs" />
+    <Compile Include="Src\Pages\HtmlViewerPage.xaml.cs">
+      <DependentUpon>HtmlViewerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\ItemViewModel.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <DesignData Include="SampleData\MainViewModelSampleData.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </DesignData>
+    <Page Include="Src\Pages\HtmlViewerPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Html\Localizable.strings" />
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\BadgeLogo.png" />
+    <Content Include="Assets\Html\11AboutApp.html" />
+    <Content Include="Assets\Html\1210tiptab.html" />
+    <Content Include="Assets\Html\121tiptab.html" />
+    <Content Include="Assets\Html\122tiptab.html" />
+    <Content Include="Assets\Html\123tiptab.html" />
+    <Content Include="Assets\Html\124tiptab.html" />
+    <Content Include="Assets\Html\125tiptab.html" />
+    <Content Include="Assets\Html\126tiptab.html" />
+    <Content Include="Assets\Html\127tiptab.html" />
+    <Content Include="Assets\Html\128tiptab.html" />
+    <Content Include="Assets\Html\129tiptab.html" />
+    <Content Include="Assets\Html\12TIPSTAB.html" />
+    <Content Include="Assets\Html\135_chat.png" />
+    <Content Include="Assets\Html\13TAB.html" />
+    <Content Include="Assets\Html\14TAB.html" />
+    <Content Include="Assets\Html\15TAB.html" />
+    <Content Include="Assets\Html\16Book.html" />
+    <Content Include="Assets\Html\24-gift.png" />
+    <Content Include="Assets\Html\28-star.png" />
+    <Content Include="Assets\Html\31.png" />
+    <Content Include="Assets\Html\32bonus.html" />
+    <Content Include="Assets\Html\33bonus.html" />
+    <Content Include="Assets\Html\34.png" />
+    <Content Include="Assets\Html\37.png" />
+    <Content Include="Assets\Html\38.png" />
+    <Content Include="Assets\Html\42ShareThisApp.html" />
+    <Content Include="Assets\Html\45Puzzle1.html" />
+    <Content Include="Assets\Html\46MEMOGame.html" />
+    <Content Include="Assets\Html\46Puzzle2.html" />
+    <Content Include="Assets\Html\47AboutUs.html" />
+    <Content Include="Assets\Html\96x96.png" />
+    <Content Include="Assets\Html\AboutUs.css" />
+    <Content Include="Assets\Html\app.xml" />
+    <Content Include="Assets\Html\apple.png" />
+    <Content Include="Assets\Html\background13.jpg" />
+    <Content Include="Assets\Html\best.png" />
+    <Content Include="Assets\Html\BestAppsForPhone.jpg" />
+    <Content Include="Assets\Html\colormenupagearrow.png" />
+    <Content Include="Assets\Html\colormenupageitem1.png" />
+    <Content Include="Assets\Html\contentmenupagearrow.png" />
+    <Content Include="Assets\Html\ConversationConfidence.jpg" />
+    <Content Include="Assets\Html\ConversationConfidence2.png" />
+    <Content Include="Assets\Html\cordova.js" />
+    <Content Include="Assets\Html\Default.png" />
+    <Content Include="Assets\Html\getmoreicon2.png" />
+    <Content Include="Assets\Html\icon-96.png" />
+    <Content Include="Assets\Html\icon.png" />
+    <Content Include="Assets\Html\icon512coreboard.png" />
+    <Content Include="Assets\Html\icon96piano.png" />
+    <Content Include="Assets\Html\icon96relax.png" />
+    <Content Include="Assets\Html\icon96weightloss.png" />
+    <Content Include="Assets\Html\icon96x96bollywood.png" />
+    <Content Include="Assets\Html\icon96x96caloncabe.png" />
+    <Content Include="Assets\Html\icon96x96candy.png" />
+    <Content Include="Assets\Html\icon96x96carrace.png" />
+    <Content Include="Assets\Html\icon96x96catagory.png" />
+    <Content Include="Assets\Html\icon96x96celebrity.png" />
+    <Content Include="Assets\Html\icon96x96chess.png" />
+    <Content Include="Assets\Html\icon96x96contra.png" />
+    <Content Include="Assets\Html\icon96x96dapchuot.png" />
+    <Content Include="Assets\Html\icon96x96feeddragon.png" />
+    <Content Include="Assets\Html\icon96x96gkkid.png" />
+    <Content Include="Assets\Html\icon96x96gkquiz.png" />
+    <Content Include="Assets\Html\icon96x96gta.png" />
+    <Content Include="Assets\Html\icon96x96hoangtuech.png" />
+    <Content Include="Assets\Html\icon96x96lyrics.png" />
+    <Content Include="Assets\Html\icon96x96mileycyrus.png" />
+    <Content Include="Assets\Html\icon96x96minionxmas.png" />
+    <Content Include="Assets\Html\icon96x96phimtrang.png" />
+    <Content Include="Assets\Html\icon96x96pokemon.png" />
+    <Content Include="Assets\Html\icon96x96scarysound.png" />
+    <Content Include="Assets\Html\icon96x96scoreboard.png" />
+    <Content Include="Assets\Html\icon96x96spca.png" />
+    <Content Include="Assets\Html\icon96x96superhero.png" />
+    <Content Include="Assets\Html\icon96x96wcquiz.png" />
+    <Content Include="Assets\Html\icon96x96xanimal.png" />
+    <Content Include="Assets\Html\icon96x96zombiebird.png" />
+    <Content Include="Assets\Html\ImageList.html" />
+    <Content Include="Assets\Html\iPadrssheader.png" />
+    <Content Include="Assets\Html\listArrow.png" />
+    <Content Include="Assets\Html\listArrowSel.png" />
+    <Content Include="Assets\Html\splash.png" />
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\SquareTile150x150.png" />
+    <Content Include="Assets\SquareTile71x71.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\WideLogo.png" />
+    <Content Include="defaultAdSettings.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="MainPage.xaml.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>MainPage.xaml.gen.cs</LastGenOutput>
+    </Content>
+    <None Include="ReadMe-AdRotator-XAML.txt" />
+    <Content Include="README_FIRST.txt" />
+    <Content Include="ReleaseNotes.txt" />
+    <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+    <Resource Include="Assets\Html\loading.gif" />
+    <Content Include="Assets\Html\Logo96.png" />
+    <Content Include="Assets\Html\moregame.html" />
+    <Content Include="Assets\Html\notificationpageicon.png" />
+    <Content Include="Assets\Html\PushNoti.html" />
+    <Content Include="Assets\Html\puzzle1.jpg" />
+    <Content Include="Assets\Html\puzzle2.jpg" />
+    <Content Include="Assets\Html\Rating.png" />
+    <Content Include="Assets\Html\RECORD.html" />
+    <Content Include="Assets\Html\Reservation.png" />
+    <Content Include="Assets\Html\rss-noimage.png" />
+    <Content Include="Assets\Html\rssheader.png" />
+    <Content Include="Assets\Html\rssreader.js" />
+    <Content Include="Assets\Html\SamplelistArrow.png" />
+    <Content Include="Assets\Html\samplemenuicon.png" />
+    <Content Include="Assets\Html\sidebarmenuicon.png" />
+    <Content Include="Assets\Html\stayupdate.html" />
+    <Content Include="Assets\Html\style.css" />
+    <Content Include="Assets\Html\tab1.html" />
+    <Content Include="Assets\Html\tab1.png" />
+    <Content Include="Assets\Html\tab2.html" />
+    <Content Include="Assets\Html\tab2.png" />
+    <Content Include="Assets\Html\tab3.html" />
+    <Content Include="Assets\Html\tab3.png" />
+    <Content Include="Assets\Html\tab4.html" />
+    <Content Include="Assets\Html\tab4.png" />
+    <Content Include="Assets\Html\tab5.png" />
+    <Content Include="Assets\Html\tab6.png" />
+    <Content Include="Assets\Html\wood_ipad.jpg" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdRotator, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AdRotator.2.1.1\lib\wp8\AdRotator.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AdRotator.Core, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AdRotator.2.1.1\lib\wp8\AdRotator.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GoogleAds">
+      <HintPath>..\packages\GoogleAds.dll</HintPath>
+    </Reference>
+    <Reference Include="InMobiWPAdSDK">
+      <HintPath>..\packages\InMobiWPAdSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile, Version=8.1.50112.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Advertising.WindowsPhone.SL81.8.1.50112.0\lib\wp81\Microsoft.Advertising.Mobile.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile.Common, Version=8.1.50112.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Advertising.WindowsPhone.SL81.8.1.50112.0\lib\wp81\Microsoft.Advertising.Mobile.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Advertising.Mobile.UI, Version=8.1.50112.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Advertising.WindowsPhone.SL81.8.1.50112.0\lib\wp81\Microsoft.Advertising.Mobile.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Phone.Controls.Maps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit, Version=8.0.1.0, Culture=neutral, PublicKeyToken=b772ad94eb9ca604, processorArchitecture=MSIL">
+      <HintPath>..\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Threading.Tasks.Extensions.Phone, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\wp8\Microsoft.Threading.Tasks.Extensions.Phone.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OneSignalSDK_WP80">
+      <HintPath>..\packages\OneSignalSDK_WP80.dll</HintPath>
+    </Reference>
+    <Reference Include="SOMAWP8">
+      <HintPath>..\..\Smaato SDK for WP8 - V1.5.0.6 no location\SOMAWP8.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets'))" />
+  </Target>
+</Project>

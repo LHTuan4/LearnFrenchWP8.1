@@ -1,0 +1,176 @@
+<xml>
+  <buildpending>no</buildpending>
+  <androidbuildpending>no</androidbuildpending>
+  <status id="1">???</status>
+  <targetplatform simulator="Android">Android</targetplatform>
+  <template price="199.99" defaultPageTransition="none" id="" topadtype="none" bottomadtype="admob" globalNavigationBarStyle="2" globalNavigationBarColor="" globalLogo="" tabsnumber="4" isUniversalApp="false" scaleWebPagesToBaseResolution="false" />
+  <prop id="appname" title="App Name">Best Way to Learn French Fast!</prop>
+  <prop id="tab1text" title="Tab1 Text">Home</prop>
+  <prop id="tab1icon" title="Tab1 Icon">apple.png</prop>
+  <prop id="tab2text" title="Tab2 Text">Gift</prop>
+  <prop id="tab2icon" title="Tab2 Icon">24-gift.png</prop>
+  <prop id="tab3text" title="Tab3 Text">BONUS</prop>
+  <prop id="tab3icon" title="Tab3 Icon">28-star.png</prop>
+  <prop id="tab4text" title="Tab4 Text">More Fun</prop>
+  <prop id="tab4icon" title="Tab4 Icon">best.png</prop>
+  <planname>Basic</planname>
+  <quizrandomize nquestions="">false</quizrandomize>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="" remindmessage="" actionmessage="" />
+  <admobpublisher id="ca-app-pub-4490959074970584/8755130159" />
+  <revmobappid id="51daac2950cdff3c3a00006b" />
+  <localizablelanguage value="en" />
+  <sentpageid id="11AboutApp.html" />
+  <paypalappid id="" />
+  <fbapp apikey="255176164607995" secret="6719337b0d3d4b6ddcf52f9bff1dcf15" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <android installLocation="preferExternal" />
+  <rotationapp>true</rotationapp>
+  <page id="tab1.html" type="gridmenu" transition="flip" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="none" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Home" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="true" />
+  <page id="tab2.html" type="html" transition="flip" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Gifts" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="true" />
+  <page id="tab3.html" type="colormenu" transition="flip" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Bonus" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="true" />
+  <page id="tab4.html" type="contentmenu" transition="flip" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Have Fun" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="true" />
+  <prop id="tab5text" title="Tab5 Text">Notification</prop>
+  <prop id="tab5icon" title="Tab5 Icon">151-radiotower.png</prop>
+  <appstorelink />
+  <prop id="androidappname" />
+  <androidapptype>0</androidapptype>
+  <androidcategory>7</androidcategory>
+  <description>*%20Do%20you%20need%20to%20lose%20weight%20and%20lose%20your%20fat%20belly%3F%0D%0A*%20Want%20to%20know%20a%20healthy%20diet%20and%20proper%20exercise%3F%0D%0A*%20Do%20you%20want%20to%20learn%20how%20to%20lose%20your%20belly%20fat%20fast%3F%0D%0A%0D%0A%20%0D%0A%0D%0AThis%20How%20to%20Lose%20Belly%20Fat%20FAST%20now%20app%20is%20totally%20for%20you.%20It%20will%20help%20you%20learn%20how%20to%20lose%20your%20belly%20fat%20fast%20and%20get%20more%20tips%20and%20suggestion%20proper%20diet%20and%20exercise%20with%20this%20app.%0D%0A%0D%0AThis%20app%20includes%0D%0A%0D%0A*%20Plenty%20of%20effective%20tips%20and%20popular%20news%20in%20this%20mobile%20app.%20Here%20are%20some%20topics%20will%20be%20covered%0D%0A%0D%0A-%20Proper%20food%20to%20help%20you%20lose%20weight%0D%0A%0D%0A-%20Tips%20for%20right%20exercise%0D%0A%0D%0A-%20Diet%20tips%20to%20lose%20belly%20fast%0D%0A%0D%0A-%20Healthy%20foods%20vs%20Junk%20Foods%0D%0A%0D%0A-%20Salad%20that%20will%20help%20you%20stay%20fit%20and%20healthy.%0D%0A%0D%0AOn%20top%20of%20that%2C%20there%20are%20some%20bonuses%20and%20recommended%20courses%20and%20books%20waiting%20for%20you%20inside%20that%20you%20can%20check%20out%20when%20you%20download%20this%20app.%0D%0AYou%20will%20have%20chance%20to%20play%20puzzle%20with%20a%20very%20beautiful%20girl%2C%20a%20sexy%20girl%20and%20a%20very%20hot%20girl%20you%20will%20wish%20to%20be%20your%20girlfriend.%0D%0A%0D%0AYou%20get%20all%20of%20the%20above%20information%2C%20functionality%20and%20plenty%20of%20coming%20features%20without%20paying%20anything.%20Don%E2%80%99t%20miss%20it%20when%20the%20price%20is%20still%20FREE.%20Click%20INSTALL%20to%20get%20access%20to%20How%20to%20Lose%20Belly%20Fat%20FAST%20now!%0D%0A%0D%0A%0D%0AThank%20you%20for%20checking%20this%20out%2C%0D%0A%0D%0ABestAppsForPhone.com%20Team</description>
+  <androiddescription>*%20Do%20you%20need%20to%20lose%20weight%20and%20lose%20your%20fat%20belly%3F%0D%0A*%20Want%20to%20know%20a%20healthy%20diet%20and%20proper%20exercise%3F%0D%0A*%20Do%20you%20want%20to%20learn%20how%20to%20lose%20your%20belly%20fat%20fast%3F%0D%0A%0D%0A%20%0D%0A%0D%0AThis%20How%20to%20Lose%20Belly%20Fat%20FAST%20now%20app%20is%20totally%20for%20you.%20It%20will%20help%20you%20learn%20how%20to%20lose%20your%20belly%20fat%20fast%20and%20get%20more%20tips%20and%20suggestion%20proper%20diet%20and%20exercise%20with%20this%20app.%0D%0A%0D%0AThis%20app%20includes%0D%0A%0D%0A*%20Plenty%20of%20effective%20tips%20and%20popular%20news%20in%20this%20mobile%20app.%20Here%20are%20some%20topics%20will%20be%20covered%0D%0A%0D%0A-%20Proper%20food%20to%20help%20you%20lose%20weight%0D%0A%0D%0A-%20Tips%20for%20right%20exercise%0D%0A%0D%0A-%20Diet%20tips%20to%20lose%20belly%20fast%0D%0A%0D%0A-%20Healthy%20foods%20vs%20Junk%20Foods%0D%0A%0D%0A-%20Salad%20that%20will%20help%20you%20stay%20fit%20and%20healthy.%0D%0A%0D%0AOn%20top%20of%20that%2C%20there%20are%20some%20bonuses%20and%20recommended%20courses%20and%20books%20waiting%20for%20you%20inside%20that%20you%20can%20check%20out%20when%20you%20download%20this%20app.%0D%0AYou%20will%20have%20chance%20to%20play%20puzzle%20with%20a%20very%20beautiful%20girl%2C%20a%20sexy%20girl%20and%20a%20very%20hot%20girl%20you%20will%20wish%20to%20be%20your%20girlfriend.%0D%0A%0D%0AYou%20get%20all%20of%20the%20above%20information%2C%20functionality%20and%20plenty%20of%20coming%20features%20without%20paying%20anything.%20Don%E2%80%99t%20miss%20it%20when%20the%20price%20is%20still%20FREE.%20Click%20INSTALL%20to%20get%20access%20to%20How%20to%20Lose%20Belly%20Fat%20FAST%20now!%0D%0A%0D%0A%0D%0AThank%20you%20for%20checking%20this%20out%2C%0D%0A%0D%0ABestAppsForPhone.com%20Team</androiddescription>
+  <androidpromovideo />
+  <promotext />
+  <androidversioncode>3</androidversioncode>
+  <androidversion>3</androidversion>
+  <androidbundlename>com.bestappsforphone.bestwaytolearnfrenchfasthowtospeakfrench</androidbundlename>
+  <androidC2DM enabled="true" />
+  <androidpermissions>
+    <permission name="android.permission.INTERNET" enabled="true" />
+    <permission name="android.permission.ACCESS_COARSE_LOCATION" enabled="false" />
+    <permission name="android.permission.ACCESS_FINE_LOCATION" enabled="false" />
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" enabled="true" />
+    <permission name="android.permission.ACCESS_NETWORK_STATE" enabled="true" />
+    <permission name="android.permission.READ_PHONE_STATE" enabled="false" />
+    <permission name="android.permission.RECORD_AUDIO" enabled="true" />
+    <permission name="android.permission.CAMERA" enabled="true" />
+    <permission name="android.permission.VIBRATE" enabled="false" />
+    <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" enabled="false" />
+    <permission name="android.permission.RECEIVE_SMS" enabled="false" />
+    <permission name="android.permission.RECORD_VIDEO" enabled="false" />
+    <permission name="android.permission.MODIFY_AUDIO_SETTINGS" enabled="false" />
+    <permission name="android.permission.READ_CONTACTS" enabled="false" />
+    <permission name="android.permission.WRITE_CONTACTS" enabled="false" />
+    <permission name="android.permission.GET_ACCOUNTS" enabled="false" />
+    <permission name="android.permission.BROADCAST_STICKY" enabled="false" />
+  </androidpermissions>
+  <androidshortappname>Learn French Fast!</androidshortappname>
+  <syncenabled>false</syncenabled>
+  <page id="PushNoti.html" type="notifications" transition="PUSH_FROM_RIGHT" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Push Notification" logo="" enterrevmob="fullscreen" hidetabbaratpush="no" hasreviewhtmlkey="no" shownavbar="yes" transitionsound="" zoomEnabled="false" loadWebUrlsInSameWebView="false" />
+  <info publisherFacebookApiKey="" />
+  <scads refreshRate="30" />
+  <apkExpansionFiles enabled="false" />
+  <pdftron licenseKey="" />
+  <page id="11AboutApp.html" type="aboutus" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="none" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Contact Us" logo="" enterrevmob="" hidetabbaratpush="no" transitionsound="" zoomEnabled="true" />
+  <page id="21Tip1.html" type="mobile" transition="" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="44Puzzle.html" type="puzzle" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no">
+    <image>emo-boy-smile.jpg</image>
+  </page>
+  <page id="43Puzzle.html" type="puzzle" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no">
+    <image>hotgirl.jpg</image>
+  </page>
+  <page id="Tip1.html" type="html" slidepageid="Tip2.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="Tip2.html" type="html" slidepageid="Tip3.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="Tip3.html" type="html" slidepageid="Tip4.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="Tip4.html" type="html" slidepageid="Tip5.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="Tip5.html" type="html" slidepageid="none" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="Top10Articles.html" type="sidebarmenu" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="7DatingTips.html" type="sidebarmenu" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="dating1.html" type="html" slidepageid="dating2.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="dating2.html" type="html" slidepageid="dating3.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="dating3.html" type="html" slidepageid="dating4.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="dating4.html" type="html" slidepageid="dating5.html" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="dating5.html" type="html" slidepageid="none" slidetransition="curl" hasreviewhtmlkey="no" hasfields="no" />
+  <page id="45Puzzle.html" type="puzzle" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no">
+    <image>sexygirl.jpg</image>
+  </page>
+  <page id="47AboutUs.html" type="aboutus" transition="FADE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="About Us" logo="" enterrevmob="popup" hidetabbaratpush="no" transitionsound="" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false" />
+  <page id="42ShareThisApp.html" type="appshare" transition="PUSH_FROM_RIGHT" slidepageid="none" slidetransition="none" hasreviews="no" hassend="yes" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" fbappid="" title="Share It" logo="" enterrevmob="" hidetabbaratpush="yes" transitionsound="" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false">
+    <appdescription>This is a great app I found on the App Store. Try it now here...</appdescription>
+    <links>
+      <share_link>http://apps.createcoolapps.com/marketr.aspx?p=tvJ3Asz0qLbM3qFt8ZdhLgoo%2FCa4oI9s7lRmJZPZcY9%2FCtTqfbBQJz5HgH%2Bo%2BdFJDjTONNteeoo%3D</share_link>
+      <iphone />
+      <ipad />
+      <android>http://www.amazon.com/gp/mas/dl/android?p=com.bestappsforphone.bestwaytolearnfrenchfasthowtospeakfrench</android>
+      <kindle />
+    </links>
+  </page>
+  <page id="45Puzzle1.html" type="puzzle" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Puzzle Game 1" logo="" enterrevmob="fullscreen" hidetabbaratpush="yes" shownavbar="yes">
+    <levelInfo title="3x3" rows="3" nextPage="125tiptab.html" />
+    <levelInfo title="4x4" rows="4" nextPage="126tiptab.html" />
+    <levelInfo title="5x5" rows="5" nextPage="14TAB.html" />
+    <levelInfo title="6x6" rows="6" nextPage="33bonus.html" />
+    <levelInfo title="7x7" rows="7" nextPage="33bonus.html" />
+    <image>puzzle1.jpg</image>
+  </page>
+  <page id="46Puzzle2.html" type="puzzle" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Puzzle Game 2" logo="" enterrevmob="" hidetabbaratpush="yes" shownavbar="yes">
+    <levelInfo title="3x3" rows="3" nextPage="124tiptab.html" />
+    <levelInfo title="4x4" rows="4" nextPage="126tiptab.html" />
+    <levelInfo title="5x5" rows="5" nextPage="16Book.html" />
+    <levelInfo title="6x6" rows="6" nextPage="15TAB.html" />
+    <levelInfo title="7x7" rows="7" nextPage="32bonus.html" />
+    <image>puzzle2.jpg</image>
+  </page>
+  <page id="12TIPSTAB.html" type="samplemenu" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="none" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" enterrevmob="popup" hidetabbaratpush="no" transitionsound="" zoomEnabled="true" />
+  <page id="13TAB.html" type="rss" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" />
+  <page id="14TAB.html" type="html" transition="FADE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" />
+  <page id="15TAB.html" type="html" transition="FADE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" enterrevmob="fullscreen" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" />
+  <page id="46MEMOGame.html" type="memogame" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="Memo Game" logo="" enterrevmob="" hidetabbaratpush="yes" shownavbar="yes">
+    <resources>
+      <res>icon-96.png</res>
+      <res>tab1.png</res>
+      <res>tab2.png</res>
+      <res>tab3.png</res>
+      <res>tab4.png</res>
+      <res>tab5.png</res>
+      <res>tab6.png</res>
+      <res>BestAppsForPhone.jpg</res>
+      <res>puzzle1.jpg</res>
+      <res>puzzle2.jpg</res>
+    </resources>
+  </page>
+  <page id="16Book.html" type="html" slidepageid="none" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_LEFT" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="127tiptab.html" type="html" slidepageid="128tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="fullscreen" transition="FADE" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="126tiptab.html" type="html" slidepageid="127tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_BOTTOM" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="125tiptab.html" type="html" slidepageid="126tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_LEFT" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="124tiptab.html" type="html" slidepageid="124tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="popup" transition="PUSH_FROM_BOTTOM" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="123tiptab.html" type="html" slidepageid="124tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="FADE" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="122tiptab.html" type="html" slidepageid="123tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_LEFT" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <sharepointclient url="" username="ansi1986" password="WVVkV2FHSklVbTlsVkVVOUl5UitZVzV6YVRFNU9EWT0jJGFuc2kxOTg2JCNhR1ZoYkhSb2VURT0=" />
+  <page id="128tiptab.html" type="html" slidepageid="129tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_LEFT" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="129tiptab.html" type="html" slidepageid="1210tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_TOP" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="1210tiptab.html" type="html" slidepageid="121tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="" transition="PUSH_FROM_LEFT" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="121tiptab.html" type="html" slidepageid="122tiptab.html" slidetransition="slide" hasreviewhtmlkey="no" hasfields="no" title="" logo="" topadtype="inherited" bottomadtype="inherited" enterrevmob="fullscreen" transition="FADE" transitionsound="" hasreviews="no" dynamicdata="false" jsonurl="" hassend="yes" hidetabbaratpush="yes" zoomEnabled="true" />
+  <page id="32bonus.html" type="html" transition="PUSH_FROM_LEFT" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" enterrevmob="" transitionsound="" hidetabbaratpush="yes" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false" />
+  <page id="33bonus.html" type="html" transition="FADE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" enterrevmob="" transitionsound="" hidetabbaratpush="yes" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false" />
+  <googleanalyticsid id="" />
+  <page id="ImageList.html" type="imagelist" transition="PUSH_FROM_RIGHT" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" enterrevmob="" hidetabbaratpush="no" shownavbar="yes" />
+  <page id="RECORD.html" type="voicerecordlist" transition="PUSH_FROM_BOTTOM" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" enterrevmob="" hidetabbaratpush="no" shownavbar="yes" />
+  <googleMaps androidApiV2Key="" />
+  <navigation type="tabs" backgroundColor="" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="" textSize="" textFont="">
+    <items>
+      <item icon="Reservation.png" text="Home" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="24-gift.png" text="Gift" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="28-star.png" text="BONUS" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="135_chat.png" text="More Fun" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <bumpapp apikey="" />
+  <androidInAppBilling enabled="false" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="567c4d86-4ff3-4ce1-9eab-09b8b3430c71" position="mr" padding="0" />
+  <webView bouncesEnabled="false" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <hostedresources />
+  <page id="moregame.html" type="html" title="" logo="" transition="FADE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false" />
+  <page id="stayupdate.html" type="html" title="" logo="" transition="FADE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" shownavbar="yes" loadWebUrlsInSameWebView="false" />
+  <ads allowUsingAdvertisingId="false" />
+</xml>
